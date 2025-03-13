@@ -1,0 +1,6 @@
+---
+title: "stage-ste-marie"
+---
+Résultats et correction de l'interro: [Full Screen](materials/resultats.qmd)
+
+<iframe class="slide-deck" src="materials/resultats.html"></iframe>
