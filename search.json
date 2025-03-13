@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "stage-ste-marie",
+    "section": "",
+    "text": "Résultats et correction de l’interro: Full Screen"
+  },
+  {
+    "objectID": "materials/resultats.html#résultats-de-lévaluation",
+    "href": "materials/resultats.html#résultats-de-lévaluation",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "Résultats de l’évaluation",
+    "text": "Résultats de l’évaluation"
+  },
+  {
+    "objectID": "materials/resultats.html#analyse",
+    "href": "materials/resultats.html#analyse",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "Analyse",
+    "text": "Analyse\n\n\n\n**Statistiques Globales :**\n\n*   Score Max Possible : 25.0\n*   Moyenne Totale : 13.50\n*   Écart-Type Total : 6.44\n\n**Classement des Questions (de la moins bien réussie à la mieux réussie):**\n* Question c : Moyenne = 0.14, Écart-Type = 0.35\n* Question 5 : Moyenne = 0.36, Écart-Type = 0.49\n* Question 3 : Moyenne = 0.38, Écart-Type = 0.43\n* Question e : Moyenne = 0.41, Écart-Type = 0.50\n* Question 1 : Moyenne = 0.43, Écart-Type = 0.46\n* Question 8 : Moyenne = 0.46, Écart-Type = 0.45\n* Question d : Moyenne = 0.55, Écart-Type = 0.51\n* Question 7 : Moyenne = 0.55, Écart-Type = 0.47\n* Question 4 : Moyenne = 0.60, Écart-Type = 0.44\n* Question 6 : Moyenne = 0.64, Écart-Type = 0.43\n* Question 2 : Moyenne = 0.82, Écart-Type = 0.35\n* Question b : Moyenne = 0.86, Écart-Type = 0.35\n* Question a : Moyenne = 0.95, Écart-Type = 0.21"
+  },
+  {
+    "objectID": "materials/resultats.html#correction-des-qcm",
+    "href": "materials/resultats.html#correction-des-qcm",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "Correction des QCM",
+    "text": "Correction des QCM"
+  },
+  {
+    "objectID": "materials/resultats.html#qcm-question-2-a",
+    "href": "materials/resultats.html#qcm-question-2-a",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "QCM : Question 2 (a)",
+    "text": "QCM : Question 2 (a)\nQuestion : Quel est le type de l’équation \\(2x^2 + 3x + 1 = 0\\) ?\n\n□ Incomplète sans terme du premier degré\n□ Incomplète sans terme indépendant\n\n□ Complète\n\n\n\nExplication : L’équation contient un terme en \\(x^2\\), un terme en \\(x\\) et un terme constant, elle est donc complète."
+  },
+  {
+    "objectID": "materials/resultats.html#qcm-question-2-b",
+    "href": "materials/resultats.html#qcm-question-2-b",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "QCM : Question 2 (b)",
+    "text": "QCM : Question 2 (b)\nQuestion : Soit l’équation \\(x^2 = 9\\). Les solutions de l’équation sont −9 et 9.\n\n□ Vrai\n\n□ Faux\n\n\n\nExplication : Les solutions sont -3 et 3 car \\((-3)^2 = 9\\) et \\((3)^2 = 9\\)."
+  },
+  {
+    "objectID": "materials/resultats.html#qcm-question-2-c",
+    "href": "materials/resultats.html#qcm-question-2-c",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "QCM : Question 2 (c)",
+    "text": "QCM : Question 2 (c)\nQuestion : L’équation \\(x^2 + x = 0\\) a combien de solutions ?\n\n□ 0 solution\n□ 1 solution\n\n□ 2 solutions\n\n\n\nExplication : On peut factoriser l’équation en \\(x(x+1) = 0\\). Les solutions sont donc \\(x = 0\\) et \\(x = -1\\)."
+  },
+  {
+    "objectID": "materials/resultats.html#qcm-question-2-d",
+    "href": "materials/resultats.html#qcm-question-2-d",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "QCM : Question 2 (d)",
+    "text": "QCM : Question 2 (d)\nQuestion : Quel est le type de l’équation \\(x^2 + 78x + 10 = 78x\\) ?\n\n□ Incomplète sans terme du premier degré\n\n□ Incomplète sans terme indépendant\n\n□ Complète\n\n\nExplication : En simplifiant l’équation, on obtient \\(x^2 + 10 = 0\\). Il n’y a pas de terme en \\(x\\), donc elle est incomplète sans terme du premier degré."
+  },
+  {
+    "objectID": "materials/resultats.html#qcm-question-2-e",
+    "href": "materials/resultats.html#qcm-question-2-e",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "QCM : Question 2 (e)",
+    "text": "QCM : Question 2 (e)\nQuestion : L’équation \\(x^2 - 12x + 36 = 0\\) a combien de solutions ?\n\n□ 0 solution\n\n□ 1 solution\n\n□ 2 solutions\n\n\nExplication : On peut factoriser l’équation en \\((x-6)^2 = 0\\). Il y a donc une seule solution : \\(x = 6\\)."
+  },
+  {
+    "objectID": "materials/resultats.html#équation-1-12x2-1-5x",
+    "href": "materials/resultats.html#équation-1-12x2-1-5x",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "Équation 1 : \\(12x^2 + 1 = 5x\\)",
+    "text": "Équation 1 : \\(12x^2 + 1 = 5x\\)\n\nType : Équation complète\n\n\nMéthode rapide : Discriminant\n\n\nSolution : \\[\\begin{align*}\n12x^2 - 5x + 1 &= 0 \\\\\n\\end{align*}\\]\n\n\n\\[\\begin{align*}\na &= 12, \\quad b = -5, \\quad c = 1 \\\\\n\\end{align*}\\]\n\n\n\\[\\begin{align*}\n\\Delta &= b^2 - 4ac = (-5)^2 - 4 \\cdot 12 \\cdot 1 = 25 - 48 = -23\n\\end{align*}\\]\n\n\nComme \\(\\Delta &lt; 0\\), l’équation n’a pas de solution réelle.\n\n\nConclusion : L’ensemble des solutions est vide : \\(S = \\emptyset\\)."
+  },
+  {
+    "objectID": "materials/resultats.html#équation-2-x2---49-0",
+    "href": "materials/resultats.html#équation-2-x2---49-0",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "Équation 2 : \\(x^2 - 49 = 0\\)",
+    "text": "Équation 2 : \\(x^2 - 49 = 0\\)\n\nType : Équation incomplète (sans terme en x)\n\n\nMéthode rapide : Racine carrée\n\n\nSolution : \\[\\begin{align*}\nx^2 &= 49 \\\\\n\\end{align*}\\]\n\n\n\\[\\begin{align*}\nx &= \\pm \\sqrt{49} \\\\\n\\end{align*}\\]\n\n\n\\[\\begin{align*}\nx &= 7 \\text{ ou } x = -7\n\\end{align*}\\]\n\n\nConclusion : L’ensemble des solutions est : \\(S = \\{-7, 7\\}\\)."
+  },
+  {
+    "objectID": "materials/resultats.html#équation-3-6x2-2x-4",
+    "href": "materials/resultats.html#équation-3-6x2-2x-4",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "Équation 3 : \\(6x^2 + 2x = 4\\)",
+    "text": "Équation 3 : \\(6x^2 + 2x = 4\\)\n\nType : Équation complète\n\n\nMéthode : Discriminant\n\n\nSolution : \\[\\begin{align*}\n6x^2 + 2x - 4 &= 0 \\\\\n3x^2 + x - 2 &= 0 \\\\\n\\end{align*}\\]"
+  },
+  {
+    "objectID": "materials/resultats.html#équation-3-suite",
+    "href": "materials/resultats.html#équation-3-suite",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "Équation 3 (suite)",
+    "text": "Équation 3 (suite)\n\n\\[\\begin{align*}\na &= 3, \\quad b = 1, \\quad c = -2 \\\\\n\\Delta &= b^2 - 4ac = 1^2 - 4 \\cdot 3 \\cdot (-2) = 1 + 24 = 25\n\\end{align*}\\]\n\n\n\\[\\begin{align*}\nx_1 &= \\frac{-b + \\sqrt{\\Delta}}{2a} = \\frac{-1 + \\sqrt{25}}{6} = \\frac{-1 + 5}{6} = \\frac{4}{6} = \\frac{2}{3} \\\\\nx_2 &= \\frac{-b - \\sqrt{\\Delta}}{2a} = \\frac{-1 - \\sqrt{25}}{6} = \\frac{-1 - 5}{6} = \\frac{-6}{6} = -1\n\\end{align*}\\]\n\n\nConclusion : L’ensemble des solutions est : \\(S = \\{-1, \\frac{2}{3}\\}\\)."
+  },
+  {
+    "objectID": "materials/resultats.html#équation-4-x2-14x-49-14x",
+    "href": "materials/resultats.html#équation-4-x2-14x-49-14x",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "Équation 4 : \\(x^2 + 14x + 49 = 14x\\)",
+    "text": "Équation 4 : \\(x^2 + 14x + 49 = 14x\\)\n\nType : Équation incomplète\n\n\nMéthode rapide : simplification et racine carrée\n\n\nSolution : \\[\\begin{align*}\nx^2 + 14x + 49 &= 14x \\\\\nx^2 + 49 &= 0 \\\\\nx^2 &= -49\n\\end{align*}\\]\n\n\nPas de solution réelle.\n\n\nConclusion : L’ensemble des solutions est vide : \\(S = \\emptyset\\)."
+  },
+  {
+    "objectID": "materials/resultats.html#équation-5-4x2-0",
+    "href": "materials/resultats.html#équation-5-4x2-0",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "Équation 5 : \\(4x^2 = 0\\)",
+    "text": "Équation 5 : \\(4x^2 = 0\\)\n\nType : Équation incomplète\n\n\nMéthode rapide : Simplification\n\n\nSolution : \\[\\begin{align*}\n4x^2 &= 0 \\\\\nx^2 &= 0\n\\end{align*}\\]\n\n\n\\(x = 0\\)\n\n\nConclusion : L’ensemble des solutions est : \\(S = \\{0\\}\\)."
+  },
+  {
+    "objectID": "materials/resultats.html#équation-6-x2---4x-3-0",
+    "href": "materials/resultats.html#équation-6-x2---4x-3-0",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "Équation 6 : \\(x^2 - 4x + 3 = 0\\)",
+    "text": "Équation 6 : \\(x^2 - 4x + 3 = 0\\)\n\nType : Équation complète\n\n\nMéthode : Discriminant\n\n\nSolution : \\[\\begin{align*}\na &= 1, \\quad b = -4, \\quad c = 3 \\\\\n\\end{align*}\\]"
+  },
+  {
+    "objectID": "materials/resultats.html#équation-6-suite",
+    "href": "materials/resultats.html#équation-6-suite",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "Équation 6 (suite)",
+    "text": "Équation 6 (suite)\n\n\\[\\begin{align*}\n\\Delta &= b^2 - 4ac = (-4)^2 - 4 \\cdot 1 \\cdot 3 = 16 - 12 = 4\n\\end{align*}\\]"
+  },
+  {
+    "objectID": "materials/resultats.html#équation-6-suite-1",
+    "href": "materials/resultats.html#équation-6-suite-1",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "Équation 6 (suite)",
+    "text": "Équation 6 (suite)\n\n\\[\\begin{align*}\nx_1 &= \\frac{-b + \\sqrt{\\Delta}}{2a} = \\frac{4 + \\sqrt{4}}{2} = \\frac{4 + 2}{2} = 3 \\\\\nx_2 &= \\frac{-b - \\sqrt{\\Delta}}{2a} = \\frac{4 - \\sqrt{4}}{2} = \\frac{4 - 2}{2} = 1\n\\end{align*}\\]\n\n\nConclusion : L’ensemble des solutions est : \\(S = \\{1, 3\\}\\)."
+  },
+  {
+    "objectID": "materials/resultats.html#équation-7-x2---2x--1",
+    "href": "materials/resultats.html#équation-7-x2---2x--1",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "Équation 7 : \\(x^2 - 2x = -1\\)",
+    "text": "Équation 7 : \\(x^2 - 2x = -1\\)\n\nType : Équation complète\n\n\nMéthode rapide : Forme canonique\n\n\nSolution : \\[\\begin{align*}\nx^2 - 2x + 1 &= 0 \\\\\n(x - 1)^2 &= 0\n\\end{align*}\\]\n\n\nSolution unique : \\(x = 1\\)\n\n\nConclusion : L’ensemble des solutions est : \\(S = \\{1\\}\\)."
+  },
+  {
+    "objectID": "materials/resultats.html#équation-8-4x2---2x-0",
+    "href": "materials/resultats.html#équation-8-4x2---2x-0",
+    "title": "Correction de l’évaluation formative n°1 sur le second degré",
+    "section": "Équation 8 : \\(4x^2 - 2x = 0\\)",
+    "text": "Équation 8 : \\(4x^2 - 2x = 0\\)\n\nType : Équation incomplète (sans terme constant)\n\n\nMéthode rapide : Factorisation\n\n\nSolution : \\[\\begin{align*}\n4x^2 - 2x &= 0 \\\\\n2x(2x - 1) &= 0\n\\end{align*}\\]\n\n\nSolutions : \\(x = 0\\) ou \\(x = \\frac{1}{2}\\)\n\n\nConclusion : L’ensemble des solutions est : \\(S = \\{0, \\frac{1}{2}\\}\\)."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
