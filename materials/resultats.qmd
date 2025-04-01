@@ -20,7 +20,7 @@ import numpy as np
 data = pd.read_csv("resultats-interro.csv")
 
 plt.figure(figsize=(8, 6))
-bins = range(0, int(data['tot'].max()) + 2, 2)  # Groupement par 2
+bins = range(0, int(data['tot'].max()) + 4, 2)  # Groupement par 2
 n, bins, patches = plt.hist(data['tot'], bins=bins, edgecolor='black', alpha=0.7)
 plt.xticks(bins)
 plt.xlabel('Note totale')
@@ -29,7 +29,7 @@ plt.title('Distribution des notes (groupement par 2)')
 plt.grid(axis='y', alpha=0.7)
 
 # Définir l'axe Y pour aller par pas de 1
-plt.yticks(np.arange(0, n.max() + 1, 1))
+plt.yticks(np.arange(0, n.max() + 3, 1))
 
 plt.show()
 ```
